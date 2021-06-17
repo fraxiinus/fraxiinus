@@ -1,16 +1,16 @@
-### Hi there 👋
+## It's just me, Fraxiinus 🏳️‍⚧️
 
-<!--
-**fraxiinus/fraxiinus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I also go by Shavisi but that's my gamer tag™ <br>
+I've made some stuff for League of Legends
 
-Here are some ideas to get you started:
+[![Donate](https://shields.io/badge/ko--fi-support%20me-green?logo=ko-fi&style=flat-square)](https://ko-fi.com/fraxiinus)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### 📖 ReplayBook [[link](https://github.com/fraxiinus/ReplayBook)]
+
+Play, manage, and inspect League of Legends replays.<br>Fully featured and actively supported.
+
+### ▶ ROFL-Player [[link](https://github.com/fraxiinus/ROFL-Player)]
+
+No longer being actively developed, but was my most important project.
